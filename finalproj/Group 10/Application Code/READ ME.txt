@@ -1,0 +1,8 @@
+IF YOU ARE TRYING TO RUN THE CODE IS A LITTLE BIT COMPLEX.
+
+to run the code:
+- YOU HAVE TO ADD THIS WHOLE PHP FOLDER IN MAMP - HTDOCS - PASTE HERE
+- add a path of mamp
+- check the ports of your mamp and check ours. 
+ours its located into the inc folder - config.php
+- this is the website that we used for the host: http://localhost:88/php/index.php
